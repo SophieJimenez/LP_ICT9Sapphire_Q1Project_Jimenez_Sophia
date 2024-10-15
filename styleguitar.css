@@ -1,0 +1,66 @@
+* {
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+
+
+#Wizpea{
+	background: white;
+	text-align: left;
+	font-size: 30px;
+	color: darkred;
+}
+
+
+
+.Start
+{
+	background: orange;
+	text-align: center;
+	padding-top: 20px;
+	padding-right: 10px;
+	font-size: 32px;
+}
+
+
+.Selections
+{
+			display: flex;
+			
+		}
+
+
+.row 
+		{
+			flex: 25%;
+			padding: 5px;
+			text-align: left;
+			border:3px solid orange;
+			color: black;
+			font-size: 20px;
+	
+
+	}
+
+
+.ending
+{
+	background: orange;
+	text-align: center;
+	padding-top: 30px;
+	padding-right: 10px;
+	align-content: center;
+}
+
+
+.firstsection
+{
+	font-size: 30px;
+}
+
+.secondsection
+{
+	font-size: 30px;
+}
+
+
